@@ -14,6 +14,12 @@ const typeDefs = gql`
     name: String!
     type: String!
     owner: User
+    img: String
+  }
+
+  enum typeInput {
+    CAT
+    DOG
   }
 
   input PetInput {
@@ -23,7 +29,7 @@ const typeDefs = gql`
 
   input NewPetInput {
     name: String!
-    type: String!
+    type: typeInput!
   }
 
   # Query

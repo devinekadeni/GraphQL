@@ -7,51 +7,34 @@
     {
       "id": "1",
       "name": "mapol",
-      "type": "dog",
+      "type": "DOG",
       "createdAt": "2020",
-      "user": "jBWMVGjm50l6LGwepDoty"
+      "user": "jBWMVGjm50l6LGwepDoty",
+      "img": "https://placedog.net/300/300"
     },
     {
-      "id": "2",
-      "name": "garfield",
-      "type": "cat",
-      "createdAt": "2020",
-      "user": "jBWMVGjm50l6LGwepDoty"
-    },
-    {
-      "id": "3",
-      "name": "jerry",
-      "type": "mouse",
-      "createdAt": "2020",
-      "user": "aaa"
-    },
-    {
-      "id": "4",
-      "name": "milly",
-      "type": "dog",
-      "createdAt": "2020",
-      "user": "aaa"
-    },
-    {
-      "id": "5",
-      "name": "cathy",
-      "type": "cat",
-      "createdAt": "2020",
-      "user": "aaa"
-    },
-    {
-      "id": "6",
-      "name": "ratatoulie",
-      "type": "mouse",
-      "createdAt": "2020",
-      "user": "aaa"
-    },
-    {
-      "id": "4-ViaDumnoIIidJ36j2yc",
-      "createdAt": 1587918327699,
+      "id": "KiajSl-e4lt626YBKorp_",
+      "createdAt": 1588252598705,
       "name": "morty",
-      "type": "dog",
-      "user": "aaa"
+      "type": "DOG"
+    },
+    {
+      "id": "YmcIOAaqLnewmngZkmN46",
+      "createdAt": 1588265630236,
+      "name": "Garfield",
+      "type": "CAT"
+    },
+    {
+      "id": "XSub9dp5RPuBZxYNcSgWX",
+      "createdAt": 1588267864346,
+      "name": "Shiro",
+      "type": "DOG"
+    },
+    {
+      "id": "cE6s8fHQYc1Qklk8Py9R9",
+      "createdAt": 1588268045037,
+      "name": "Tom",
+      "type": "CAT"
     }
   ]
 }
